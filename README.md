@@ -210,4 +210,5 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 
 
 ## RESULT
-Include your result here
+Thus, a neural network classification model was successfully developed and trained using PyTorch
+
